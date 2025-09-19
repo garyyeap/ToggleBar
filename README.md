@@ -2,6 +2,8 @@
 
 A simple VSCode extension that adds status bar buttons to toggle the primary and secondary sidebars.
 
+Created by Claude Code.
+
 ## Features
 
 - **Primary Sidebar Toggle**: Click the left sidebar icon in the status bar to toggle the primary sidebar (Explorer, Search, etc.)
